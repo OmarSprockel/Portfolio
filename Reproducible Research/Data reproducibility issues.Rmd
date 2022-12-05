@@ -1,0 +1,42 @@
+---
+title: "Reproducibility issues in scientific publications"
+author: "Omar Sprockel"
+date: "2-12-2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
+```{r Introduction}
+#During this assignment we will be looking at reprodubility issues in scientific publications. The paper linked below will be analysed through the following criteria: https://www.researchgate.net/publication/340244621_Reproducibility_and_reporting_practices_in_COVID-19_preprint_manuscripts
+
+#Article: https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1201971220325066?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1201971220325066%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F
+```
+
+```{r results}
+#Study purpose = TRUE
+#Coronavirus disease 2019 (COVID-19), caused by the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become a global pandemic of the highest priority ( Johns Hopkins University of Medicine, 2020 ). Eighty-one percent of cases are categorized as mild, for whom symptomatic management at home and monitoring of clinical deterioration is recommended ( Centers for Disease Control and Prevention, 2020 ). Despite providing symptomatic management, a therapeutic drug that would limit the course of infection is greatly needed. Ivermectin, a popular anti-parasitic drug, acts on SARS-CoV-2 by preventing viral proteins from entering the host cell nucleus ( Caly et al., 2020 ). Recent virtual drug screening identified doxycycline as a potential inhibitor of SARS-CoV-2 papain-like protease ( Wu et al., 2020 ).
+
+#Data Availability Statement = FALSE
+
+#Data location = not stated
+
+#Study location = TRUE
+#a International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b), Dhaka, Bangladesh bDivision of Infectious Diseases, Department of Medicine, National University Hospital, Singapore c
+#Mugda Medical College and Hospital, Dhaka, Bangladesh dKurmitola General Hospital, Dhaka, Bangladesh eDhaka Medical College and Hospital, Dhaka, Banglades
+
+#Author review = Tier 3, Author used institutional email address for as primary contact
+#* Corresponding author.
+#E-mail address: wakhan@icddrb.org (W.A. Khan).
+
+#Ethics statement = TRUE
+#Ethical review
+#The trial was approved by the Institutional Review Board (Research Review Committee and Ethical Review Committee) of icddr,b and subsequently by the National Ethics Review Committee of Bangladesh Medical Research Council and Clinical Trial Advisory Committee of the Directorate General of Drug Administration, Government of Bangladesh. Written informed consent was obtained from all patients.
+
+#Funding statement = TRUE
+#Funding source This work was supported by Beximco Pharmaceutical Limited, Bangladesh
+
+#Code availability = FALSE
+```

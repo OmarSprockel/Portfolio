@@ -1,0 +1,46 @@
+---
+title: "C. elegans plate experiment"
+author: "Omar Sprockel"
+date: "19-11-2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(readxl)
+library(ggplot2)
+library(tidyverse)
+```
+
+```{r Load-in file}
+#First we're loading the file into R.
+CE.LIQ.FLOW.062_Tidydata.xlsx <- read_excel("/home/alyanne.dehaan/Portfolio_JariKoot-main/data_raw/CE.LIQ.FLOW.062_Tidydata.xlsx")
+```
+
+```{r Check data types}
+#The data types can sometimes get messed up when using excel due to automatic features. We're using R in order to check the data type of the columns "RawData", "compName", and "compConcentration".
+
+class(CE.LIQ.FLOW.062_Tidydata.xlsx$RawData)
+class(CE.LIQ.FLOW.062_Tidydata.xlsx$compName)
+class(CE.LIQ.FLOW.062_Tidydata.xlsx$compConcentration)
+
+#As visible, R sees the data from column "compConcentration" as a character, let's fix that.
+CE.LIQ.FLOW.062_Tidydata.xlsx$compConcentration <- as.numeric(CE.LIQ.FLOW.062_Tidydata.xlsx$compConcentration)
+class(CE.LIQ.FLOW.062_Tidydata.xlsx$compConcentration)
+```
+
+```{r Plot the data}
+#The imported data will now be made visible by plotting.
+ggplot(CE.LIQ.FLOW.062_Tidydata.xlsx) + geom_jitter(aes(x = log10(compConcentration), y = RawData, color = compName, shape = expType)) + xlab("log10 compConcentration")
+
+#The positive control for this experiment is Ethanol, the negative control for this experiment is S-medium.
+```
+
+
+```{r Result analysis}
+#In order to see which compound has an effect on offspring at which concentrations I would apply a t-test for each concentration to see whether there is a statistically significant difference.
+```
+
+```{r Normalise results}
+#The result has to be normalised in order to filter the natural expression. S-medium is the negative control, so this will be used as a blanc.
+#???
+```

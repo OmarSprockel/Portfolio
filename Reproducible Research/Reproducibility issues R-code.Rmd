@@ -1,0 +1,22 @@
+---
+title: "Reproducibility issues R-code"
+author: "Omar Sprockel"
+date: "2-12-2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
+```{r Introduction}
+#In this exercise we will look at some code reproducibility issues from the article listed below. This article collected data about the feeling of loneliness from German citizens during the Coronacrisis lockdown. The code calculates the perceived loneliness over time. Whether people differ in their change of perceived loneliness. And if there are other relations between lonelineness and things beside days.
+
+#Article: https://osf.io/wqc25/
+```
+
+```{r Code grade}
+#For code readability I grade a 5 out of 5. There are multiple scripts available, each describing what they entail. In those files they also added subsections for the code, describing what it does, increasing the readability.
+
+#Reproducing the results is also easy using the raw data and code provided. Running the code automatically creates the same figures shown in the final product. Therefore I also grade a 5 out of 5 for code reproducibility.
+```
