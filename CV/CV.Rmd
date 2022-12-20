@@ -20,7 +20,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> omar.sprockel@gmailcom
+- <i class="fa fa-envelope"></i> omar.sprockel@gmail.com
 - <i class="fa fa-github"></i> [github.com/OmarSprockel](https://github.com/OmarSprockel)
 - <i class="fa fa-phone"></i> +31 6 17976932
 - For more information, please contact me via email.
@@ -73,122 +73,58 @@ Arnhem, The Netherlands
 
 Sept. 2015 - July 2019
 
-MBO study for labtechnician. During the 2nd year I chose to graduate in biology
+MBO study for labtechnician. During the 2nd year I chose to graduate in biology.
 
 ### Hogeschool Utrecht
 
 HBO Biological and medical lab research
 
+Utrecht, The Netherlands
 
-Research Experience {data-icon=laptop}
+Sept. 2019 - Currently
+
+HBO study following up my completing MBO. During the 3rd year I chose to graduate in Biomolecular Research and completed the minor Data Sciences for Biology.
+
+
+Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Intern
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+Westerdijk Fungal Biodiversity Institute
 
-Beijing, China
+Utrecht, The Netherlands
 
-2011 - 2014
+Feb. 2018 - Jan. 2019
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+Internship for my MBO study. Sequenced roughly 300 Pseudocercospora samples on 4 different genes. Afterwards created a phylogenetic tree showing the relation between those samples. Attained some experience with PCR, gel elektrophoresis, DNA isolations and phylogenetics.
 
-### Bioinformatican
+### Intern
 
-My Health Gene Technology Co., Ltd.
+Wageningen Universiteit
 
-Beijing, China
+Randwijk, The Netherlands
 
-2015 - 2016
+Jan. 2019 - June 2019
 
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
+Graduating internship for my MBO study. Worked on my own projects with the help of my supervisor. Performed various microbiological techniques on fungi like germination assays, generating zoöspores, and activating sporulation of different species.
 
-### Visiting Scientist
+### Quality Control Analyst
 
-University of Alabama at Birmingham
+Unipol Holland B.V.
 
-AL, USA
+Oss, The Netherlands
 
-2016 - 2018
+July 2019 - Aug. 2019
 
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+Summerjob during the summervacation in between my MBO graduation and starting HBO. Performed various quality assays on EPS samples coming from the factory. Determining Zinc concentration with IC, samplesize checks, making PPS samples and getting samples from the factory. 
   
+### Student-assistant
 
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+UMC Utrecht
 
-### Data Scientist, intern
+Utrecht, The Netherlands
 
-SupStat Inc.
+March 2020 - Currently
 
-Beijing, China
-
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+Job next to my HBO study. Helped the analysts by performing pre-analytical steps. Also did various side-jobs like organising sample storage, getting samples for studies, maintaining the labs and training other student assistants. During the coronavirus pandemic I helped by doing PCR tests on the coronasamples sent by the GGD and worked on several projects.
