@@ -1,0 +1,14 @@
+---
+title: "Project introduction"
+author: "Omar Sprockel"
+date: "2022-12-20"
+output: html_document
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+```
+
+```{r Introduction, eval = FALSE}
+As of recently the Institute of Life Sciences (ILC) can perform long-read-sequencing using a MinION sequencer. The MinION sequencer is a small and portable device capable of performing long-read-sequencing in a relatively short amount of time. Long read sequencing has certain advantages and disadvantages over short-read-sequencing. The ILC has used the MinION for various reasons, such as getting an idea of gene expression by performing RNA sequencing on human cells. Recently, RNA sequencing has been used to generate RNA sequencing data for MCF7 cells. MCF7 cells are commonly used in studies that focus on the development of cancer treatment. Since the usage of the MinION sequencer is relatively new the ILC wants to know whether the data they are generating is of good quality. In order to accomplish this the ILC wants to compare their data to published data. A study has been found which has performed RNA sequencing using a MinION sequencer on MCF7 cells and has made their data public. In order to make the comparison reproducible for future data, an R package needs to be written that follows the exact method of data manipulation used in the paper. The data needs to be processed by basecalling and demultiplexing using Guppy. Afterwards, the fastq files need to be aligned with a reference genome using Minimap2. Bambu will be used for transcript quantification. Finally differential gene expression will be analysed by DESeq2. After successfully processing the generated data through the pipeline the quality of the results from the ILC can be compared to that of the paper, to get an idea of the quality.
+```
